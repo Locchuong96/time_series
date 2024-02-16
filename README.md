@@ -23,3 +23,5 @@ Machine learning models for time series data
 [ FX3U | Truyền Thông RS485 MODBUS Với PYTHON Siêu Chi Tiết ](https://www.youtube.com/watch?v=uahASNwk5eE)
 
 [Modpoll Modbus Master Simulator](https://www.modbusdriver.com/modpoll.html)
+
+[EasyModbus](https://pypi.org/project/EasyModbus/)
