@@ -21,3 +21,5 @@ Machine learning models for time series data
 [Modbus TCP Master (Client) Implementation in Python - Read Data From Modbus Slave in Python](https://www.youtube.com/watch?v=VYG-3Q8qbq4)
 
 [ FX3U | Truyền Thông RS485 MODBUS Với PYTHON Siêu Chi Tiết ](https://www.youtube.com/watch?v=uahASNwk5eE)
+
+[Modpoll Modbus Master Simulator](https://www.modbusdriver.com/modpoll.html)
