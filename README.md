@@ -25,3 +25,5 @@ Machine learning models for time series data
 [Modpoll Modbus Master Simulator](https://www.modbusdriver.com/modpoll.html)
 
 [EasyModbus](https://pypi.org/project/EasyModbus/)
+
+[Plot multiple plots in Matplotlib](https://www.geeksforgeeks.org/plot-multiple-plots-in-matplotlib/)
