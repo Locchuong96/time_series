@@ -1,2 +1,3 @@
 matplotlib
 PyQt5
+tensorflow=2.7.0
