@@ -12,6 +12,8 @@ Machine learning models for time series data
 
 # references
 
+[anomaly-detection-in-time-series-data](https://www.geeksforgeeks.org/anomaly-detection-in-time-series-data/)
+
 [ Anomaly Detection For Time Series Data in Python ](https://www.youtube.com/watch?v=T5wB7pk3CUc)
 
 [ 180 - LSTM Autoencoder for anomaly detection ](https://www.youtube.com/watch?v=T5wB7pk3CUc)
